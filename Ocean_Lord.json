@@ -1,0 +1,173 @@
+﻿{
+  "WatchFace_Info": {
+    "DeviceName": "T-Rex 3",
+    "WatchFaceId": 4237719
+  },
+  "ScreenNormal": {
+    "Background": {
+      "visible": true,
+      "BackgroundImage": {
+        "position": -1,
+        "visible": false,
+        "show_level": "",
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 480,
+        "src": "Back",
+        "alpha": 255
+      }
+    },
+    "Elements": [
+      {
+        "elementName": "ElementHeart",
+        "visible": true,
+        "Images": {
+          "position": 10,
+          "visible": false,
+          "shortcut": false,
+          "show_level": "",
+          "X": 0,
+          "Y": 0,
+          "image_length": 0,
+          "alpha": 255
+        },
+        "Segments": {
+          "position": 9,
+          "visible": false,
+          "show_level": "",
+          "image_length": 0
+        },
+        "Number": {
+          "position": 8,
+          "visible": false,
+          "align": "LEFT",
+          "show_level": "",
+          "imageX": 0,
+          "imageY": 0,
+          "space": 0,
+          "zero": false,
+          "iconPosX": 0,
+          "iconPosY": 0,
+          "angle": 0,
+          "follow": false,
+          "unit_in_alignment": false,
+          "alpha": 255,
+          "icon_alpha": 255
+        },
+        "Number_Font": {
+          "position": 7,
+          "visible": true,
+          "show_level": "",
+          "x": 220,
+          "y": 200,
+          "w": 150,
+          "h": 30,
+          "color": "0xFFFF8C00",
+          "color_2": "0xFFFF0000",
+          "use_color_2": false,
+          "align_h": "LEFT",
+          "align_v": "TOP",
+          "text_size": 20,
+          "alpha": 255,
+          "text_style": "ELLIPSIS",
+          "line_space": 0,
+          "char_space": 0,
+          "font": "bahnschrift.ttf",
+          "padding": false,
+          "unit_type": 0,
+          "unit_string": "",
+          "unit_end": false,
+          "centreHorizontally": false,
+          "centreVertically": false
+        },
+        "Text_rotation": {
+          "position": 6,
+          "visible": false,
+          "align": "LEFT",
+          "show_level": "",
+          "imageX": 0,
+          "imageY": 0,
+          "space": 0,
+          "zero": false,
+          "iconPosX": 0,
+          "iconPosY": 0,
+          "angle": 0,
+          "follow": false,
+          "unit_in_alignment": false,
+          "alpha": 255,
+          "icon_alpha": 255
+        },
+        "Text_circle": {
+          "position": 5,
+          "visible": false,
+          "show_level": "",
+          "circle_center_X": 0,
+          "circle_center_Y": 0,
+          "radius": 100,
+          "angle": 0,
+          "char_space_angle": 0,
+          "zero": false,
+          "vertical_alignment": "BOTTOM",
+          "horizontal_alignment": "LEFT",
+          "reverse_direction": false,
+          "unit_in_alignment": true
+        },
+        "Pointer": {
+          "position": 4,
+          "visible": false,
+          "show_level": "",
+          "center_x": 0,
+          "center_y": 0,
+          "pos_x": 0,
+          "pos_y": 0,
+          "start_angle": 0,
+          "end_angle": 360,
+          "cover_x": 0,
+          "cover_y": 0,
+          "scale_x": 0,
+          "scale_y": 0
+        },
+        "Circle_Scale": {
+          "position": 3,
+          "visible": false,
+          "end_angle": 180,
+          "show_level": "",
+          "center_x": 0,
+          "center_y": 0,
+          "start_angle": 0,
+          "color": "0xFFFF8C00",
+          "radius": 100,
+          "line_width": 5,
+          "line_cap": "Rounded",
+          "mirror": false,
+          "inversion": false,
+          "alpha": 255
+        },
+        "Linear_Scale": {
+          "position": 2,
+          "visible": false,
+          "show_level": "",
+          "start_x": 0,
+          "start_y": 0,
+          "color": "0xFFFF8C00",
+          "lenght": 100,
+          "line_width": 5,
+          "line_cap": "Flat",
+          "mirror": false,
+          "inversion": false,
+          "vertical": false,
+          "alpha": 255
+        },
+        "Icon": {
+          "position": 1,
+          "visible": false,
+          "show_level": "",
+          "x": 0,
+          "y": 0,
+          "alpha": 255
+        }
+      }
+    ]
+  }
+}
